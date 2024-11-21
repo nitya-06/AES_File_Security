@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+resources/*.encrypted
+resources/sample_decrypted.txt
