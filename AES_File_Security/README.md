@@ -44,10 +44,13 @@ This project was developed collaboratively as part of the requirements for the C
 ## Usage
 
 1. Run the application:
+
    ```bash
    Copy code
    python src/aes_gui.py
+
    ```
+
 2. Enter a key (1-16 characters).
 3. Use the GUI to:
    Encrypt a file (e.g., text, image, or video).
