@@ -37,16 +37,19 @@ This project was developed collaboratively as part of the requirements for the C
    ```
 
 2. Install dependencies:
+
    ```bash
    pip install -r requirements.txt
+
    ```
 
 ## Usage
 
 1. Run the application:
 
-   ```bash
    Copy code
+
+   ```bash
    python src/aes_gui.py
 
    ```
